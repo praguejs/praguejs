@@ -1,5 +1,24 @@
 ---
 -
+  month: March
+  talks:
+    -
+      title: "NodeJS debugging - Basics to Intermediate"
+      speaker:
+        name: Jakub Korál, Apiary
+        twitter: kubakubula
+      links:
+        Slides: http://www.slideshare.net/kuba-kubula/nodejs-debugging-basics-to-intermediate
+    -
+      title: "App Metrics"
+      speaker:
+        name: Mike Tunnicliffe, IBM
+        twitter: fierydrake
+    -
+      title: "Performance profiling NodeJS across stack"
+      speaker:
+        name: Vilibald Wanča
+-
   month: February
   talks:
     -
