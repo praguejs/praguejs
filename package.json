@@ -37,7 +37,7 @@
     "google-auth-library": "0.9.7",
     "googleapis": "5.2.0",
     "jade": "~1.11.0",
-    "js-yaml": "~3.5.5",
+    "js-yaml": "~3.6.0",
     "marked": "~0.3.5",
     "method-override": "2.3.5",
     "request": "2.72.0",
