@@ -1,6 +1,7 @@
 ---
 -
   month: December
+  venue: Node5
   talks:
     -
       title: "Testacular"
@@ -8,19 +9,20 @@
         name: "Vojta Jína"
         twitter: vojtajina
     -
-      title: "Vybrana temata z JSCONF.eu 2012 - Web RTC, Shadow DOM"       
+      title: "Vybrana temata z JSCONF.eu 2012 - Web RTC, Shadow DOM"
       speaker:
         name: "Lukáš Franěk"
       links:
         Slides: "https://github.com/Chleba/jsconfprednaska"
--        
+-
   month: November
+  venue: Node5
   talks:
     -
       title: "Faster than C? Parsing Node.js Streams!"
       video: "http://www.youtube.com/watch?v=QQXx-bmepoQ&feature=player_embedded"
       speaker:
-        name: "Felix Geisendörfer"        
+        name: "Felix Geisendörfer"
     -
       title: "Easy parsing with PEG.js"
       video: "http://www.youtube.com/watch?v=iPC6ArcGyL8"
@@ -30,6 +32,7 @@
         twitter: dmajda
 -
   month: October
+  venue: Node5
   talks:
     -
       title: "Ember - data"
@@ -39,7 +42,7 @@
       links:
         Website: "http://tomdale.net/"
     -
-      title: "ESCMAScript 6"    
+      title: "ESCMAScript 6"
       video: "http://www.youtube.com/watch?v=AkjcxlAuyLI&feature=player_embedded"
       speaker:
         name: "Yehuda Katz"
@@ -48,11 +51,12 @@
       speaker:
         name: "Daniel Steigerwald"
     -
-      title: "Ancho, a cross-browser extension development framework based on the Chrome API"      
+      title: "Ancho, a cross-browser extension development framework based on the Chrome API"
       speaker:
         name: "Matthew Gertner, Salsita Software"
 -
   month: September
+  venue: Node5
   talks:
     -
       title: "Mocha, Look into Node.js platform"
@@ -66,6 +70,7 @@
       links:
 -
   month: August
+  venue: Node5
   talks:
     -
       title: "Node Expressně"
@@ -81,9 +86,10 @@
         Slides: "http://www.slideshare.net/ladislavprskavec/gruntjs"
 -
   month: July
+  venue: Node5
   talks:
     -
-      title: "Node at Apiary.io"    
+      title: "Node at Apiary.io"
       speaker:
         name: "Jakub Nešetřil"
       links:
@@ -98,6 +104,7 @@
         Code-Example: "https://github.com/Steida/este"
 -
   month: June
+  venue: Microsot
   talks:
     -
       title: "Vývoj pro Windows 8 v JS"
@@ -112,9 +119,10 @@
         Slides: "https://github.com/pdanis/angular-talk"
 -
   month: May
+  venue: Node5 and ImpactHub (Workshop)
   talks:
     -
-      title: "Continues Co? V Javascriptu"  
+      title: "Continues Co? V Javascriptu"
       speaker:
         name: "Ladislav Prskavec"
         twitter: abtris
@@ -122,14 +130,13 @@
         Slides: "http://www.slideshare.net/ladislavprskavec/javascript-continues-integration-in-jenkins-with-angularjs-13151668"
         Code-Example: "https://github.com/abtris/angular-todo-mongohq"
     -
-      title: "Google Closure, důvody proč tu library preferuju"      
+      title: "Google Closure, důvody proč tu library preferuju"
       speaker:
         name: "Daniel Steigerwald"
-        twitter: steida      
+        twitter: steida
     -
       title: "AngularJS"
       description: "Workshop"
       speaker:
         name: "Vojta Jína"
         twitter: vojtajina
- 
