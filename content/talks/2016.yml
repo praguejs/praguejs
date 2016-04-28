@@ -4,7 +4,7 @@
   venue: Avast
   talks:
     -
-      tile: D3.js in Avast
+      title: D3.js in Avast
       speaker:
         name: Ondřej Mašek
     -
