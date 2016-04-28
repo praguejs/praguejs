@@ -1,6 +1,7 @@
 ---
 -
   month: September
+  venue: Apiary
   talks:
     -
       title: "GraphQL - say goodbye to REST?"
@@ -14,6 +15,7 @@
         twitter: jiriknesl
 -
   month: July
+  venue: GoodData
   talks:
     -
       title: "RxJS"
@@ -34,6 +36,7 @@
         twitter: voy
 -
   month: February
+  venue: Avast
   talks:
     -
       title: "ReactJS"

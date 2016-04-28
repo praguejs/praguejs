@@ -1,145 +1,156 @@
 ---
 -
   month: December
+  venue: Node5
   talks:
     -
       title: "PragueJS 2014"
       description: "Ideas for Prague JS meetups in 2014"
       speaker:
-        name: "Aleš Rippl, Ladislav Prskavec"            
+        name: "Aleš Rippl, Ladislav Prskavec"
 -
   month: November
+  venue: Node5
   talks:
     -
       title: "Ember-data"
       description: "Co jsou ember-data (pro ty co neví). Co se změnilo (pro ty co znali před beta.1). Hands-on příklady typických use cases (transakce, embedded models, merge verzí klient/server)"
       speaker:
-        name: "Adam Kloboučník, GoodData"            
+        name: "Adam Kloboučník, GoodData"
         twitter: akloboucnik‎
       links:
-        Slides: https://speakerdeck.com/akloboucnik/ember-data-introduction  
+        Slides: https://speakerdeck.com/akloboucnik/ember-data-introduction
     -
       title: "AngularJS a Restangular"
       description: "AngularJS aplikace s Node.js/MongoDB backendem s využitím Yeomana a Restangularu."
       speaker:
-        name: "Jan Killian a Tomáš Holas, Salsita"            
+        name: "Jan Killian a Tomáš Holas, Salsita"
       links:
         Slides: https://dl.dropboxusercontent.com/u/738990/salsita-praguejs.pdf
         Generator: https://github.com/salsita/generator-salsa
         Sample App: https://github.com/tomaash/trackr
 -
   month: October
+  venue: Node5
   talks:
     -
       title: "Zajímavosti z JSConf.eu 2013"
       description: "Reportáž a shrnutí z konference http://2013.jsconf.eu/."
       speaker:
-        name: "Ondřej Žára, Seznam.cz"            
+        name: "Ondřej Žára, Seznam.cz"
         twitter: 0ndras
     -
       title: "Debugování Node.js aplikací"
       description: "Jak na debugování v Node.js aplikacích. Krátká zmínka o alternativách - TDD, debug logging. Live demo práce s Node Inspector."
       speaker:
-        name: "Miroslav Bajtoš, Strongloop"            
-        twitter: bajtos  
+        name: "Miroslav Bajtoš, Strongloop"
+        twitter: bajtos
 -
   month: September
+  venue: Node5
   talks:
     -
       title: "MVC Performance, Ember.js"
       description: "About how a core runtime and overall principles design influences the frontend framework performance."
       speaker:
-        name: "Standa Opichal, GoodData"            
+        name: "Standa Opichal, GoodData"
         twitter: opichals
-      links: 
-        Slides: "http://www.slideshare.net/opichals/mvc-performance-emberjs-26607445"  
+      links:
+        Slides: "http://www.slideshare.net/opichals/mvc-performance-emberjs-26607445"
     -
       title: "Cesta do USA, jak pracovat bez víza legalně?"
       speaker:
-        name: "Daniel Steigerwald"            
+        name: "Daniel Steigerwald"
         twitter: steida
 -
   month: August
+  venue: Node5
   talks:
     -
       title: "Firebase and AngularJS"
       description: "Dnešní většina aplikací v javascriptu má architekturu klient server. Pokud nechcete psát nějaký backend pro vaši aplikaci, můžete se tomu vyhnout pokud použijete nějaký druh úložiště (databáze), která vám k tomu přidá i funkce, které má nějaký backend napsaný např. v nodejs nebo php."
       speaker:
-        name: "Ladislav Prskavec"            
-        twitter: abtris        
-      links: 
+        name: "Ladislav Prskavec"
+        twitter: abtris
+      links:
         Blog post: "http://blog.prskavec.net/2013/08/firebase-a-angularjs/"
 -
   month: July
+  venue: Node5
   talks:
     -
       title: "Intro do Google Closure Compiler a Library"
       description: "Praktická ukázka skeletonu webové aplikace využívající Compiler a Library. Výhody a nástrahy Compileru. Ukázky práce s Closure Library od základních funkcí knihovny, OOP, lokalizace, šablon až po jednoduchou UI komponentu."
       speaker:
-        name: "Miroslav Kuzmisin"            
-      video: "http://www.youtube.com/watch?v=DjS4M4Hu3GI"  
+        name: "Miroslav Kuzmisin"
+      video: "http://www.youtube.com/watch?v=DjS4M4Hu3GI"
     -
-      title: "Cucumber.js"      
+      title: "Cucumber.js"
       description: "Cucumber, the popular Behaviour-Driven Development tool, brought to your JavaScript stack. It runs on both Node.js and modern web browsers."
       speaker:
-        name: "Adam Kliment, Apiary.io" 
-      video: "http://www.youtube.com/watch?v=nxsewc3rKMg"      
+        name: "Adam Kliment, Apiary.io"
+      video: "http://www.youtube.com/watch?v=nxsewc3rKMg"
       links:
         Gist with links: "https://gist.github.com/netmilk/6081659"
 -
   month: June
+  venue: Node5
   talks:
     -
       title: "Design API"
       description: "Trendy v návrhu APIs, jak souvisí API a UX a jak přizpůsobit API jeho uživatelům."
       speaker:
-        name: "Jakub Nešetřil, Apiary.io"      
-      video: "https://www.youtube.com/watch?v=BJtkES160qs"  
+        name: "Jakub Nešetřil, Apiary.io"
+      video: "https://www.youtube.com/watch?v=BJtkES160qs"
     -
-      title: "Jak děláme API v Socialbakers"      
+      title: "Jak děláme API v Socialbakers"
       speaker:
-        name: "Lukáš Beneš, Lukáš Drbal, Lukáš Weber - SocialBakers" 
+        name: "Lukáš Beneš, Lukáš Drbal, Lukáš Weber - SocialBakers"
       video: "https://www.youtube.com/watch?v=sadb7eps1uA"
 -
   month: May
+  venue: Node5
   talks:
     -
       title: "RequireJS"
       description: "Modular JavaScript with RequireJS. How to write modular JavaScript applications with RequireJS and what it takes to compile your application using RequireJS Optimizer."
       speaker:
-        name: "František Hába, Apiary.io"      
+        name: "František Hába, Apiary.io"
     -
       title: "Autonomous web apps with Sockethub"
       description: "As the major social network vendors increase their customer lock-in, and the open social web platform alternatives continue to be dispersed and re-invent the wheel, we're faced with many different, mostly non-interoperable platforms, protocols and APIs to choose from."
       speaker:
-        name: "Nick Jennings" 
+        name: "Nick Jennings"
 -
   month: April
+  venue: Node5
   talks:
     -
       title: "BDD tools v Express.js"
       description: "Short introduction into BDD and show Mocha, Chai, Sinon-chai, Chai-as-promised tools."
       speaker:
-        name: "Tomáš Brambora, Salsita"      
+        name: "Tomáš Brambora, Salsita"
     -
       title: "Ember.js - The New Web Development Order!"
       description: "Offers what other platforms UI developers normally expect to obtain however what they have never gotten in a browser-centric web framework."
       speaker:
-        name: "Adam Kloboučník, GoodData" 
+        name: "Adam Kloboučník, GoodData"
 -
   month: March
+  venue: Node5
   talks:
     -
       title: "The Other Maps"
       description: "Tired of Google Maps? Try other technologies that will enable you to prototype and deliver map related stuff in a fast and effortless manner. [Leaflet.js](http://leafletjs.com/) + [MapBox](http://mapbox.com/) + [CartoDB](http://cartodb.com/)"
       speaker:
-        name: "Petr Volny, Petr Beneš, GoodData"      
+        name: "Petr Volny, Petr Beneš, GoodData"
     -
       title: "Ember camp"
       speaker:
-        name: "Standa Opíchal, GoodData" 
+        name: "Standa Opíchal, GoodData"
 -
   month: February
+  venue: Node5
   talks:
     -
       title: "Rozbijte své monolitické JS aplikace! Začněte z GruntuJS jinak."
@@ -150,9 +161,10 @@
       title: "JavaScript a Elasticsearch: #BFF"
       speaker:
         name: "Karel Minařík"
-        twitter: "karmiq"  
--        
+        twitter: "karmiq"
+-
   month: January
+  venue: Node5
   talks:
     -
       title: "Mapy na webu"

@@ -1,6 +1,7 @@
 ---
 -
   month: October
+  venue: Node5
   talks:
     -
       title: "Tessel is a microcontroller that runs JavaScript."
@@ -31,6 +32,7 @@
         Video: "https://www.youtube.com/watch?v=GZ_I8TaEtB0&list=PLvkBoi0G2JD6Hp5CTzn4KMigcuKXciXB6&index=11"
 -
   month: March
+  venue: Node5
   talks:
     -
       title: "Empower mobile web developers with JavaScript & WebAPI"
@@ -44,6 +46,7 @@
         blogpost: "http://outofcomfortzone.net/2014/03/31/empower-mobile-web-developers-with-javascript-webapi-at-praguejs/"
 -
   month: February
+  venue: Node5
   talks:
     -
       title: "Co je v JavaScriptu špatně?"
@@ -52,6 +55,7 @@
         twitter: frzng
 -
   month: January
+  venue: Node5
   talks:
     -
       title: "méně známé triky v JavaScriptu"

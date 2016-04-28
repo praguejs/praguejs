@@ -1,6 +1,7 @@
 ---
 -
   month: March
+  venue: Apiary
   talks:
     -
       title: "NodeJS debugging - Basics to Intermediate"
@@ -20,6 +21,7 @@
         name: Vilibald Wanča
 -
   month: February
+  venue: Apiary
   talks:
     -
       title: "Redux: re-thinking side effects"
