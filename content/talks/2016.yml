@@ -1,5 +1,17 @@
 ---
 -
+  month: April
+  venue: Avast
+  talks:
+    -
+      tile: D3.js in Avast
+      speaker:
+        name: Ondřej Mašek
+    -
+      title: D3.js in Jumpshot
+      speaker:
+        name:  Aleš Najmann
+-
   month: March
   venue: Apiary
   talks:
