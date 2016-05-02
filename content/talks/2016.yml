@@ -28,9 +28,11 @@
         name: Mike Tunnicliffe, IBM
         twitter: fierydrake
     -
-      title: "Performance profiling NodeJS across stack"
+      title: "Performance profiling NodeJS across the stack"
       speaker:
         name: Vilibald Wanča
+      links:
+        Slides: https://github.com/w-vi/talks/tree/master/prague-js-2016-03-31
 -
   month: February
   venue: Apiary
