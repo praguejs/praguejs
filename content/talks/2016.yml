@@ -1,5 +1,30 @@
 ---
 -
+  month: May
+  venue: Salsita
+  talks:
+    -
+      title: Using zone.js
+      speaker:
+        name: Standa Opichal, HPE Service Virtualization (hpsv.cz)
+        twitter: opichals
+      links:
+        Slides: http://www.slideshare.net/opichals/using-zonejs
+    -
+      title: Why does the Elm Architecture matter to Redux developers?
+      speaker:
+        name: "Tomas Weiss, Salsita"
+        twitter: tomkisw
+      links:
+        Project: http://salsita.github.io/redux-elm/
+    -
+      title: React.js is new Lego
+      speaker:
+        name: Ondřej Bartas, BlueBerry
+        twitter: ondrej_bartas
+      links:
+        Project: https://github.com/blueberryapps/react-bluekit
+-
   month: April
   venue: Avast
   talks:
