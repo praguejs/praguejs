@@ -1,5 +1,28 @@
 ---
 -
+  month: June
+  venue: STRV
+  talks:
+    -
+      title: ServerLess Architecture at AWS and NodeJS
+      speaker:
+        name: Ladislav Prskavec, Apiary
+        twitter: abtris
+      links:
+        Slides: https://speakerdeck.com/abtris/serverless-architecture-praguejs-30-dot-6-2016
+    -
+      title: GraphQL server using ServerLess AWS Lambda
+      speaker:
+        name: Michal Sänger, Bileto
+        twitter: sanger_foodblog
+    -
+      title: Google Apps Script
+      speaker:
+        name: Ivan Kutil, AppSatori
+        twitter: codeas
+      links:
+        Slides: https://docs.google.com/presentation/d/1tasUtv8OHu0N23ry_an3BSNq878ux0wHgBOaWz3wXXs/edit#slide=id.g3b7bad6ed_054
+-
   month: May
   venue: Salsita
   talks:
