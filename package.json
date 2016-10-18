@@ -34,7 +34,7 @@
     "coffee-script": "~1.10.0",
     "connect": "~3.4.1",
     "express": "~4.14.0",
-    "google-auth-library": "0.9.8",
+    "google-auth-library": "0.9.9",
     "googleapis": "4.0.0",
     "jade": "~1.11.0",
     "js-yaml": "~3.6.0",
