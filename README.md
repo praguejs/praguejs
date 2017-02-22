@@ -1,5 +1,7 @@
 # PragueJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/praguejs/praguejs.svg)](https://greenkeeper.io/)
+
 Originally forked from Cologne.js -  the website for the JavaScript Meetup Cologne.
 
 Built with [NodeJS](http://nodejs.org), [CoffeeScript](http://jashkenas.github.com/coffee-script/) and [Express](http://expressjs.com).
