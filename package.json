@@ -30,10 +30,10 @@
     "node": "4.4.0"
   },
   "dependencies": {
-    "body-parser": "1.15.2",
+    "body-parser": "^1.19.0",
     "coffee-script": "~1.10.0",
-    "connect": "~3.4.1",
-    "express": "~4.14.0",
+    "connect": "^3.7.0",
+    "express": "^4.17.1",
     "google-auth-library": "0.9.8",
     "googleapis": "59.0.0",
     "jade": "~1.11.0",
