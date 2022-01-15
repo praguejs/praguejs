@@ -38,7 +38,7 @@
     "googleapis": "59.0.0",
     "jade": "~1.11.0",
     "js-yaml": "~3.13.1",
-    "marked": "~0.3.5",
+    "marked": "~4.0.10",
     "method-override": "2.3.10",
     "request": "2.74.0",
     "sitemap": "1.6.0",
